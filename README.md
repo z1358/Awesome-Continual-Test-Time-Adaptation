@@ -3,8 +3,9 @@
 *Star the repo to show support!* ✨
 
 ## 📒 Overview  
-This repository aims to **systematically organize** research advancements and discussions on CTTA, primarily featuring published articles in this rapidly evolving field.
-Deep learning models have exhibited remarkable advancements in scenarios characterized by a consistent data distribution between training and test environments. However, the deployment of machine perception systems in the real world frequently exposes them to non-stationary and constantly changing environments. When such phenomena occur (e.g., unexpected domain shifts over time), these models are prone to severe performance degradation. Consequently, the development of techniques for continual adaptation during the unsupervised deployment phase is essential for enhancing the reliability of machine perception systems. This repo serves as a **community-driven hub** for:  
+This repository systematically organizes research advancements in CTTA, primarily featuring published articles in this rapidly evolving field.  
+Deep learning models often struggle when deployed in real-world settings with non-stationary environments. Developing techniques for continual adaptation during unsupervised deployment is essential for reliable machine perception systems.  
+This repo serves as a **community-driven hub** for:  
 - 📈 **Tracking progress**: Documenting the evolution of CTTA methods through a chronological timeline.
 - 🔍 **Organizing approaches**: Categorizing methods by technical approaches.
 - 👏 **Fostering collaboration**: Encouraging open discussions and contributions.
