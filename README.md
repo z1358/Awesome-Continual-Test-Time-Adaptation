@@ -1,21 +1,23 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 # Awesome-Continual-Test-Time-Adaptation
+*Star the repo to show support!* ✨
 
 ## 📒 Overview  
-This repository aims to **systematically organize** research advancements and discussions on CTTA, primarily featuring published articles in the field. 
+This repository aims to **systematically organize** research advancements and discussions on CTTA, primarily featuring published articles in this rapidly evolving field.
 Deep learning models have exhibited remarkable advancements in scenarios characterized by a consistent data distribution between training and test environments. However, the deployment of machine perception systems in the real world frequently exposes them to non-stationary and constantly changing environments. When such phenomena occur (e.g., unexpected domain shifts over time), these models are prone to severe performance degradation. Consequently, the development of techniques for continual adaptation during the unsupervised deployment phase is essential for enhancing the reliability of machine perception systems. This repo serves as a **community-driven hub** for:  
-- 🎯 **Tracking SOTA methods**: Papers and codebases for CTTA.  
+- 📈 **Tracking progress**: Documenting the evolution of CTTA methods through a chronological timeline.
+- 🔍 **Organizing approaches**: Categorizing methods by technical approaches.
 - 👏 **Fostering collaboration**: Encouraging open discussions and contributions.
 
-# Table of Contents
+# 📰 Table of Contents
 
-- [Timeline](#timeline)
+- [Timeline](#-timeline)
     - [2025](#2025)
     - [2024](#2024)
     - [2023](#2023)
     - [2022](#2022)
     
-- [Technical Approaches](#technical-approaches)
+- [Technical Approaches](#-technical-approaches)
     - [Parameter Recovery or Regularization](#parameter-recovery-or-regularization)
     - [Sample Filtering](#sample-filtering)
     - [Contrastive Learning](#contrastive-learning)
@@ -24,9 +26,11 @@ Deep learning models have exhibited remarkable advancements in scenarios charact
     - [Reconstruction](#reconstruction)
     - [Warm-up based (need source data)](#warm-up-based-need-source-data)
     - [Relationship-guided](#relationship-guided)
- 
-  
-# [Timeline](#timeline)
+
+ - [Related Resources](#-related-resources)
+ - [Concat and Acknowledgments](#-concat-and-acknowledgments)
+   
+# 📅 [Timeline](#-timeline)
 *Sorted chronologically (newest first).*  
 
 ### [2025](#2025)
@@ -67,7 +71,7 @@ Deep learning models have exhibited remarkable advancements in scenarios charact
 |2022|CVPR|[Continual Test-Time Domain Adaptation](https://arxiv.org/abs/2203.13591)|[Code](https://github.com/qinenergy/cotta)|
 |2022|ICML|[Efficient Test-Time Model Adaptation without Forgetting](https://arxiv.org/abs/2204.02610)|[Code](https://github.com/mr-eggplant/EATA)|
     
-# [Technical Approaches](#technical-approaches)
+# 🧰 [Technical Approaches](#-technical-approaches)
 ### [Parameter Recovery or Regularization](#parameter-recovery-or-regularization)
 |Year|Venue|Key Words|Paper Title|Code/Project|
 |:-:|:-:|:-:|-|:-:|
@@ -134,4 +138,12 @@ Deep learning models have exhibited remarkable advancements in scenarios charact
 |2024|ECCV|Domain-invariant Inter-class Relation|[Reshaping the Online Data Buffering and Organizing Mechanism for Continual Test-Time Adaptation](https://arxiv.org/abs/2407.09367)|[Code](https://github.com/z1358/OBAO)|
 |2025|CVPR|Uniform Topological Relation|Maintaining Consistent Inter-Class Topology in Continual Test-Time Adaptation|[Code](https://github.com/Successybbdwm/TCA)|
 
-# Resources
+# 📍 [Related Resources](#-related-resources)
+- [SUSI-Lab Awesome-Continual-Test-Time-Adaptation](https://github.com/SUSI-Lab/Awesome-Continual-Test-Time-Adaptation)
+- [Yangsenqiao Awesome-Continual-Test-Time-Adaptation](https://github.com/Yangsenqiao/Awesome-Continual-Test-Time-Adaptation)
+
+# 📧 [Concat and Acknowledgments](#-concat-and-acknowledgments)
+Feel free to contact me (visiongroupzzl@gmail.com) if you find any interesting paper is missing.  
+*Acknowledgments: This repo builds on the efforts of the open-source community. We appreciate everyone's contributions.*  
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=z1358.awesome-continual-test-time-adaptation&left_color=green&right_color=red)
