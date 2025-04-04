@@ -1,7 +1,31 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 # Awesome-Continual-Test-Time-Adaptation
-A curated repository of papers and research works on Continual Test Time Adaptation (CTTA), primarily featuring published articles in the field.
 
+## 📒 Overview  
+This repository aims to **systematically organize** research advancements and discussions on CTTA, primarily featuring published articles in the field. 
+Deep learning models have exhibited remarkable advancements in scenarios characterized by a consistent data distribution between training and test environments. However, the deployment of machine perception systems in the real world frequently exposes them to non-stationary and constantly changing environments. When such phenomena occur (e.g., unexpected domain shifts over time), these models are prone to severe performance degradation. Consequently, the development of techniques for continual adaptation during the unsupervised deployment phase is essential for enhancing the reliability of machine perception systems. This repo serves as a **community-driven hub** for:  
+- 🎯 **Tracking SOTA methods**: Papers and codebases for CTTA.  
+- 👏 **Fostering collaboration**: Encouraging open discussions and contributions.
+
+# Table of Contents
+
+- [Timeline](#timeline)
+    - [2025](#2025)
+    - [2024](#2024)
+    - [2023](#2023)
+    - [2022](#2022)
+    
+- [Technical Approaches](#technical-approaches)
+    - [Parameter Recovery or Regularization](#parameter-recovery-or-regularization)
+    - [Sample Filtering](#sample-filtering)
+    - [Contrastive Learning](#contrastive-learning)
+    - [Buffer-enhanced](#buffer-enhanced)
+    - [PEFT-based](#peft-based)
+    - [Reconstruction](#reconstruction)
+    - [Warm-up based (need source data)](#warm-up-based-need-source-data)
+    - [Relationship-guided](#relationship-guided)
+ 
+  
 # [Timeline](#timeline)
 *Sorted chronologically (newest first).*  
 
