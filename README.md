@@ -44,6 +44,7 @@ This repo serves as a **community-driven hub** for:
 |Year|Venue|Paper Title|Code/Project|
 |:-:|:-:|-|:-:|
 |2024|ECCV|[Reshaping the Online Data Buffering and Organizing Mechanism for Continual Test-Time Adaptation](https://arxiv.org/abs/2407.09367)|[Code](https://github.com/z1358/OBAO)|
+|2024|CVPR|[Each Test Image Deserves A Specific Prompt: Continual Test-Time Adaptation for 2D Medical Image Segmentation](https://arxiv.org/abs/2311.18363)|[Code](https://github.com/Chen-Ziyang/VPTTA)|
 |2024|CVPR|[Continual-MAE: Adaptive Distribution Masked Autoencoders for Continual Test-Time Adaptation](https://arxiv.org/abs/2312.12480)|[Code](https://github.com/RanXu2000/continual-mae)|
 |2024|CVPR|[A Versatile Framework for Continual Test-Time Domain Adaptation: Balancing Discriminability and Generalizability](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_A_Versatile_Framework_for_Continual_Test-Time_Domain_Adaptation_Balancing_Discriminability_CVPR_2024_paper.html)|N/A|
 |2024|CVPR|[BECoTTA: Input-dependent Online Blending of Experts for Continual Test-time Adaptation](https://arxiv.org/abs/2402.08712)|[Code](https://github.com/daeunni/becotta)|
@@ -118,6 +119,7 @@ This repo serves as a **community-driven hub** for:
 |2024|ICLR|Adapters|[ViDA: Homeostatic Visual Domain Adapter for Continual Test Time Adaptation](https://arxiv.org/abs/2306.04344)|[Code](https://github.com/Yangsenqiao/vida)|
 |2024|ICRA|Selective|[Distribution-Aware Continual Test Time Adaptation for Semantic Segmentation](https://arxiv.org/abs/2309.13604)|[Code](https://github.com/RochelleNi/DAT)|
 |2024|CVPR|MoE with Adapters|[BECoTTA: Input-dependent Online Blending of Experts for Continual Test-time Adaptation](https://arxiv.org/abs/2402.08712)|[Code](https://github.com/daeunni/becotta)|
+|2024|CVPR|Low-frequency Prompt|[Each Test Image Deserves A Specific Prompt: Continual Test-Time Adaptation for 2D Medical Image Segmentation](https://arxiv.org/abs/2311.18363)|[Code](https://github.com/Chen-Ziyang/VPTTA)|
 
 ### [Reconstruction](#reconstruction)
 |Year|Venue|Key Words|Paper Title|Code/Project|
