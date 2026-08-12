@@ -1,3 +1,5 @@
+
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 # Awesome-Continual-Test-Time-Adaptation
 *Star the repo to show support!* ✨
@@ -29,7 +31,7 @@ This repo serves as a **community-driven hub** for:
     - [Relationship-guided](#relationship-guided)
 
  - [Related Resources](#-related-resources)
- - [Concat and Acknowledgments](#-concat-and-acknowledgments)
+ - [Contact and Acknowledgments](#-contact-and-acknowledgments)
    
 # 📅 [Timeline](#-timeline)
 *Sorted chronologically (newest first).*  
@@ -145,7 +147,7 @@ This repo serves as a **community-driven hub** for:
 - [SUSI-Lab Awesome-Continual-Test-Time-Adaptation](https://github.com/SUSI-Lab/Awesome-Continual-Test-Time-Adaptation)
 - [Yangsenqiao Awesome-Continual-Test-Time-Adaptation](https://github.com/Yangsenqiao/Awesome-Continual-Test-Time-Adaptation)
 
-# 📧 [Concat and Acknowledgments](#-concat-and-acknowledgments)
+# 📧 [Contact and Acknowledgments](#-contact-and-acknowledgments)
 Feel free to contact me (visiongroupzzl@gmail.com) if you find any interesting paper is missing.  
 *Acknowledgments: This repo builds on the efforts of the open-source community. We appreciate everyone's contributions.*  
 
